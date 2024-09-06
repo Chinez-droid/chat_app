@@ -1,7 +1,7 @@
-# Chat App
+# 🗣️ Chat App
 This is a more complex project that leverages Firebase for its backend functionalities, including user authentication, one-on-one chat capabilities, and notification management.
 
-## Demo
+## 📽️ Demo
 https://github.com/user-attachments/assets/cef327b5-6cb2-4786-8717-93109bffd65a
 
 ## 🔨 Tools
