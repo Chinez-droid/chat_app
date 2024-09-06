@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/cef327b5-6cb2-4786-8717-93109bffd65a
 - Push Notifications: used to send real-time messages to users even when the app is not actively running, enhancing user engagement and providing timely updates.
 
 ## ⚒️ Installation
-To get started with the shopping list app, follow these steps:
+To get started with the chat app, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Chinez-droid/chat_app.git
